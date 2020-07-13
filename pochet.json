@@ -1,0 +1,21 @@
+{
+  "$jason": {
+    "head": {
+      "title": "Почет",
+      "actions": {
+        "$foreground": {
+          "type": "$reload"
+        }
+      }
+    },
+    "body": {
+      "style": {
+        "background": {
+        "type": "html",
+        "url": "https://portal.pochet.ru/"
+      }
+        "border": "none"
+      }
+    }
+  }
+}
